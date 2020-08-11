@@ -15,3 +15,5 @@ Now see the deployment of everything
 ## How to Contribute
 
 Sample website with plenty of files for demos 
+
+## Copyright by Eman
