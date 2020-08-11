@@ -10,7 +10,7 @@ This is an example of what to put
 
 ## Deployment
 
-Now see the deployment
+Now see the deployment of everything
 
 ## How to Contribute
 
