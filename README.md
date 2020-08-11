@@ -10,6 +10,8 @@ This is an example of what to put
 
 ## Deployment
 
+Now see the deployment
+
 ## How to Contribute
 
 Sample website with plenty of files for demos 
